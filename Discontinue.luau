@@ -1,4 +1,4 @@
--- Script Kick Form Game
+-- Script Kick Form Game (nahh)
 -- Tempatkan di StarterPlayerScripts atau StarterGui sebagai LocalScript
 
 local Players = game:GetService("Players")
